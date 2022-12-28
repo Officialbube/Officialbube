@@ -5,6 +5,7 @@
 - 📫 How to reach me ...call or WhatsApp me +2348144961356
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=officialbube)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=officialbube)](https://git.io/streak-stats)
 
 <!---
 Officialbube/Officialbube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
