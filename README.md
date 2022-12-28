@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on ...a website
 - 📫 How to reach me ...call or WhatsApp me +2348144961356
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=officialbube)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=officialbube)](https://git.io/streak-stats)
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialbube&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=officialbube&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=officialbube&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
 
 <!---
 Officialbube/Officialbube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
