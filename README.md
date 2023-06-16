@@ -1,18 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebube Nkere Ebube
-=========================================================================================================================================
+### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Web Developer
--------------
+I am Ebube Nkere Ebube, currently into Web Development. I am a Front-End JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-* 🌍  I'm based in Nigeria
-
-### Socials
 <p>
   
   <a href="https://www.linkedin.com/in/ebube-nkere-ebube-37141b23a/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
   <a href="https://twitter.com/BubeCodes">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   <a>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </p>
+
+
+### More About Me
+
+
+* 🌍  I'm based in Nigeria
+
+### Socials
+
 
 
 
