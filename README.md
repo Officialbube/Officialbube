@@ -1,6 +1,6 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Welcome
 
-I am Ebube Nkere Ebube, currently into Web Development. I am a Front-End JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: fhhgffgh
+I am Ebube Nkere Ebube, currently into Web Development. I am a Front-End JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 <p>
   
