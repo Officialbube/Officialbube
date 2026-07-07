@@ -38,7 +38,7 @@ Fullstack Developer & Coding Educator based in Nigeria — I build production Wo
 - **RealMediaData.com** — internet data purchase platform (PHP), built for a Nigerian client
 - **Vidsrc** — movie & TV streaming platform (React/Next.js), built for a foreign client
 
-📄 Full case studies: [bubedev.vercel.app](https://bubedev.vercel.app)
+📄 Full case studies: [officialbube.site](https://officialbube.site)
 
 ---
 
